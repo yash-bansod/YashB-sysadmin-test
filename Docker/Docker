@@ -1,0 +1,6 @@
+FROM ubuntu
+RUN apt-get update && apt-get install -y apache2 && apt-get install -y apache2-utils
+RUN apt-get install -y curl wget
+RUN apt-get clean
+COPY index.html /var/www/html/
+CMD service apache2 start && curl http://localhost
