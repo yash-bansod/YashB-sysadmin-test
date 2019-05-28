@@ -12,5 +12,5 @@ This is the link to the gateway's SSL Certificate. Click this link to download t
  
 https://206.189.128.130/
 
-
+username: ```streisand``` password: ```task.pause.traffic.old.lava.where```
 
