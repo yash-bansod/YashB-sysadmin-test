@@ -18,14 +18,14 @@ username: ```streisand``` password: ```task.pause.traffic.old.lava.where```
 
 
 ## Testing on my device
-..* Tested the vpn in my mobile device running Android
-..* Used **Cisco AnyConnect**
-..* Downloaded the application from Google Play
-..* Allowed Untrusted servers in the application
-..* Added new VPN connection with name ```streisand``` and server address ```206.189.128.130:4443```
-..* Downloaded ```ca.crt``` from the gateway
-..* Imported the ```logic-check.p12``` file (client certificate) embedded in the gateway in the advanced preferences of the app
-..* Connected to the vpn by flipping the switch and selected no_group (default settings)
-..* Was prompted for a username: ```streisand``` and password ```saddle.entire.blouse.bird.wall```
-..*Connected successfully and was able to connect another device simultaneously.
+* Tested the vpn in my mobile device running Android
+* Used **Cisco AnyConnect**
+* Downloaded the application from Google Play
+* Allowed Untrusted servers in the application
+* Added new VPN connection with name ```streisand``` and server address ```206.189.128.130:4443```
+* Downloaded ```ca.crt``` from the gateway
+* Imported the ```logic-check.p12``` file (client certificate) embedded in the gateway in the advanced preferences of the app
+* Connected to the vpn by flipping the switch and selected no_group (default settings)
+* Was prompted for a username: ```streisand``` and password ```saddle.entire.blouse.bird.wall```
+* Connected successfully and was able to connect another device simultaneously.
 
